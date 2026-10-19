@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "synthetic": true,
+  "snapshot_id": "demo-snapshot-002",
+  "entity_id": "synthetic-fund-alpha",
+  "period": "2026-10-18",
+  "currency": "USD",
+  "extracted_at": "2026-10-19T10:00:00Z",
+  "assets": "1250000.00",
+  "liabilities": "250000.00",
+  "expected": "999900.00"
+}

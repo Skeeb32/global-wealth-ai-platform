@@ -16,3 +16,8 @@ htmlcov/
 .terraform/
 data/private/
 data/production/
+*.sqlite3
+*.sqlite3-*
+*.egg-info/
+build/
+dist/
